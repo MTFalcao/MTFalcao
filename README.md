@@ -1,7 +1,7 @@
 
 # :earth_americas: Ola, me chamo Matheus Maciel, e sou estudante de Ciência da Computação
 Atualmente estou cursando Ciência da Computação na Universidade
-Estácio de Sá em Niterói e meu foco principal é C#, mas estou aberto a aprender novas
+Estácio de Sá em Niterói e meu foco principal é C/C++ e Python, mas estou aberto a aprender novas
 tecnologias.
 
 Aqui é onde compartilho meus projetos e exercícios feitos durante a faculdade, tanto para ter acesso rápido
