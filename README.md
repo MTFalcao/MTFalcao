@@ -1,8 +1,6 @@
 
 # :earth_americas: Ola, me chamo Matheus Maciel, e sou estudante de Ciência da Computação
-Atualmente estou cursando Ciência da Computação na Universidade
-Estácio de Sá em Niterói e meu foco principal é C/C++ e Python, mas estou aberto a aprender novas
-tecnologias.
+Atualmente estou cursando Ciência da Computação na Universidade Estácio de Sá em Niterói.
 
 Aqui é onde compartilho meus projetos e exercícios feitos durante a faculdade, tanto para ter acesso rápido
 aos códigos que já fiz, quanto para servir de portfólio para
